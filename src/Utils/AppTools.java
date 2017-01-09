@@ -8,4 +8,7 @@ public class AppTools {
 		user.setName("Tailent");
 		user.setPwd("123");
 	}
+	public static String getNewName(String name){
+		return name+"jysg";
+	}
 }
